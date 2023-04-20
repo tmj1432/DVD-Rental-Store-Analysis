@@ -1,4 +1,4 @@
-# :cd: DVD Rental Store Analysis :cd:
+# :cd: DVD Rental Store Database Analysis :cd:
 
 ## Introduction
 
