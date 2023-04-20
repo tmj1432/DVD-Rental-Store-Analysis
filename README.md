@@ -30,9 +30,9 @@ How can the DVD rental store optimise its inventory and pricing strategies to me
 
 **1) Increasing rental prices for action films**
 
-Top 3 Genres based on rental include Sports, Animation and Action
+- Top 3 Genres based on rental include Sports, Animation and Action
 
-Top 3 Genres based on revenue include Sports, Sci-Fi and Animation
+- Top 3 Genres based on revenue include Sports, Sci-Fi and Animation
 
 Notice that Action ranks 3rd based on the rental while ranking 7th based on the revenue generated. This is where the DVD store can experiment with increasing the rental prices for action films since there is a demand for action films.
 
